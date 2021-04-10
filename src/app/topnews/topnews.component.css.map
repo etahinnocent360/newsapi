@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "topnews.component.scss"
+    ],
+    "names": [],
+    "file": "topnews.component.css"
+}
